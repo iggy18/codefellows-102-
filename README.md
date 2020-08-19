@@ -2,7 +2,7 @@
 reading notes for code 102
 
 ##about me
-I am seth, a student at codefellows
+'I am seth', a student at codefellows
 ## Growth mindset
 what growth mindset is
 
